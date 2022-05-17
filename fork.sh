@@ -1,3 +1,3 @@
 gcc fork.c -o fork
-./fork
+./fork&
 rm -rf Fork
